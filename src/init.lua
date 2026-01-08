@@ -33,7 +33,7 @@ local Library = {
 	WindowFrame = nil,
 	Unloaded = false,
 
-	Theme = "Dark",
+	Theme = "Darker",
 	DialogOpen = false,
 	UseAcrylic = false,
 	Acrylic = false,
